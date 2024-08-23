@@ -29,7 +29,7 @@ body {
   font-optical-sizing: auto;
 }
 .main-container {
-  width: 400px;
+  width: 500px;
   height: 800px;
   margin: 87px auto 80px;
   overflow: hidden;
@@ -41,7 +41,7 @@ section {
 }
 /*----------------------------------------------------------------*/
 .first {
-  border-radius: 30px;
+  border-radius: 36px;
   background: linear-gradient(
     to bottom,
     var(--Light-slate-blue),
